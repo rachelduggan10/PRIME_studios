@@ -6,9 +6,11 @@ An important aim of PCOR-PRIME (1R25HS023199-01) is to enhance the quality of cl
 
 <b>Approach</b>
 
-Stakeholder studios are one-time events organized on behalf of a project leader or principal investigator, usually scheduled at the beginning or end of a work day for a period of three hours, starting with a light meal (breakfast of dinner). Studios begin with a short presentation by the principal investigator that informs participants of proposed research aims, significance and design, and describes particular challenges or needs that stakeholders will help resolve. The participant expert discussion that follows is guided by a neutral facilitator to elicit authentic and constructive feedback. Careful selection of relevant stakeholders/community experts based on needs of the project (i.e. developmental, implementation, dissemination, etc.) is essential to the success of an given studio event, as is advance preparation and coaching to support the role of the researcher and participant experts.
+Stakeholder studios are one-time events organized on behalf of a project leader or principal investigator, usually scheduled at the beginning or end of a work day for a period of three hours, starting with a light meal (breakfast of dinner). The studio itself begins with a short presentation by the principal investigator that informs participants of proposed research aims, significance and design, and describes particular challenges or needs that stakeholders will help resolve. The participant expert discussion that follows is guided by a neutral facilitator to elicit authentic and constructive feedback. Careful selection of relevant stakeholders/community experts based on needs of the project (i.e. developmental, implementation, dissemination, etc.) is essential to the success of an given studio event, as is advance preparation and coaching to support the role of the researcher and participant experts.
 
 <b>Studio Roles and Responsibilities</b>
+
+<i>Project Lead/Prinicipal Investigator</i>. Presents a succinct slide set (Powerpoint) to 'pitch' the planned project or research to participating stakeholders, calling out specific issues or challenges to be addressed during the studio. This presentation is no longer that 10 minutes/10 slides.
 
 <i>Stakeholder/Community Navigator</i>. Responsible for planning and conducting the pre-studio researcher meeting. A boundary spanner with experience working in the community and familiar with research.
 
