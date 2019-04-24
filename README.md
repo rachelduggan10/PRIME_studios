@@ -10,11 +10,11 @@ Stakeholder studios are one-time events organized on behalf of a project leader 
 
 <b>Studio Roles and Responsibilities</b>
 
-<u>Stakeholder/Community Navigator</u>. Responsible for planning and conducting the pre-studio researcher meeting. A boundary spanner with experience working in the community and familiar with research.
+<i>Stakeholder/Community Navigator</i>. Responsible for planning and conducting the pre-studio researcher meeting. A boundary spanner with experience working in the community and familiar with research.
 
-<u>Facilitator</u>. Creates a neutral environment for open discussion between the researcher and the community experts.
+<i>Facilitator</i>. Creates a neutral environment for open discussion between the researcher and the community experts.
 
-<u>Studio Advisory Group</u>. Serves to provide on-going guidance and organizational support. Vets all SE Studio requests to assess appropriateness for Studio. Assists investigators with identifying stakeholders to fit needs of research project. Members have experience with patient-centered outcomes research, clinical practice improvement processes, community public relations, participatory action research, and program evaluation.
+<i>Studio Advisory Group</i>. Serves to provide on-going guidance and organizational support. Vets all SE Studio requests to assess appropriateness for Studio. Assists investigators with identifying stakeholders to fit needs of research project. Members have experience with patient-centered outcomes research, clinical practice improvement processes, community public relations, participatory action research, and program evaluation.
 
 <b>Assessing the Project-Specific Need to Conduct a Studio</b>
 
@@ -26,7 +26,8 @@ Stakeholder studios are one-time events organized on behalf of a project leader 
 
 <b>Potential Benefits of SE Studios</b>
 
-<u>For Researchers</u>. Increases understanding of key stakeholders’ perspectives; Creates awareness of and insight into stakeholders’ priorities and needs.
-<u>For Patient/Community and Other Stakeholders</u>. Increases understanding of research purpose and methods; Builds relationship with research community; Clarifies researcher’s motivations.
+<i>For Researchers</i>. Increases understanding of key stakeholders’ perspectives; Creates awareness of and insight into stakeholders’ priorities and needs.
+
+<i>For Patient/Community and Other Stakeholders</i>. Increases understanding of research purpose and methods; Builds relationship with research community; Clarifies researcher’s motivations.
 
 <b>Stakeholder Studio Fidelity Checklist: <u>Uploaded</u></b>.
