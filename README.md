@@ -30,4 +30,4 @@ Stakeholder studios are one-time events organized on behalf of a project leader 
 
 <i>For Patient/Community and Other Stakeholders</i>. Increases understanding of research purpose and methods; Builds relationship with research community; Clarifies researcher’s motivations.
 
-<b>Stakeholder Studio Literature and Fidelity Checklist: <u>See uploaded documents!</u></b>.
+<b>Stakeholder Studio Literature and Fidelity Checklist: <u>See uploaded documents!</u></b> Click on the green <b>Clone or download</b> button, above. Select <b>Download ZIP</b> to transfer a compressed copy of all materials to your device/workstation, then opent the transferred file to unZIP all folders and files. 
